@@ -48,3 +48,6 @@ code {
 .icon {
   margin-right: 5px;
 }
+.project_title{
+  word-break: break-all;
+}

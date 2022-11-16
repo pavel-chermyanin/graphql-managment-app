@@ -53,7 +53,7 @@ function App() {
       children: [
         { path: "/", element: <Home /> },
         {
-          path: "/project/:id",
+          path: "/projects/:id",
           element: <Project  />,
         },
         {

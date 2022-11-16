@@ -32,6 +32,10 @@ const AddClientModal = () => {
 
     }
     addClient(name,email, phone)
+
+    setName('')
+    setEmail('')
+    setPhone('')
   };
   return (
     <>
